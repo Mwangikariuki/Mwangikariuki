@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mwangikariuki
 - 👀 I’m interested in frontend and backend
-- 🌱 I’m currently trying to understand machine learning
+- 🌱 I’m currently in love with typescript the new girl on the block
 - 💞️ I’m looking to collaborate on any javascript open source
 - 📫 How to reach me is easy just hit me up on github
 
